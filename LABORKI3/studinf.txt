@@ -1,0 +1,11 @@
+Maciej Reszke 2 12345 1 
+Daniel Najdrowski 4 42345 0 
+Piotr Daun 4 23456 1 
+Wojtek Debb 2 53456 1 
+Krzysztof Serocki 5 43234 1 
+
+Amabaras Trzydwaraz 3 12345 1 
+Siema Cotam 5 73454 1
+Kuba Bonk 1 42353 0
+Tomek Fiud 4 74345 0 
+Maciej Wiond 2 42355 0
